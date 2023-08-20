@@ -1,0 +1,15 @@
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\si_aed_atividade_de_nivelamento2\bin\Debug\net7.0\si_aed_atividade_de_nivelamento2.exe
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\si_aed_atividade_de_nivelamento2\bin\Debug\net7.0\si_aed_atividade_de_nivelamento2.deps.json
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\si_aed_atividade_de_nivelamento2\bin\Debug\net7.0\si_aed_atividade_de_nivelamento2.runtimeconfig.json
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\si_aed_atividade_de_nivelamento2\bin\Debug\net7.0\si_aed_atividade_de_nivelamento2.dll
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\si_aed_atividade_de_nivelamento2\bin\Debug\net7.0\si_aed_atividade_de_nivelamento2.pdb
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\si_aed_atividade_de_nivelamento2\obj\Debug\net7.0\si_aed_atividade_de_nivelamento2.csproj.AssemblyReference.cache
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\si_aed_atividade_de_nivelamento2\obj\Debug\net7.0\si_aed_atividade_de_nivelamento2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\si_aed_atividade_de_nivelamento2\obj\Debug\net7.0\si_aed_atividade_de_nivelamento2.AssemblyInfoInputs.cache
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\si_aed_atividade_de_nivelamento2\obj\Debug\net7.0\si_aed_atividade_de_nivelamento2.AssemblyInfo.cs
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\si_aed_atividade_de_nivelamento2\obj\Debug\net7.0\si_aed_atividade_de_nivelamento2.csproj.CoreCompileInputs.cache
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\si_aed_atividade_de_nivelamento2\obj\Debug\net7.0\si_aed_atividade_de_nivelamento2.dll
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\si_aed_atividade_de_nivelamento2\obj\Debug\net7.0\refint\si_aed_atividade_de_nivelamento2.dll
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\si_aed_atividade_de_nivelamento2\obj\Debug\net7.0\si_aed_atividade_de_nivelamento2.pdb
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\si_aed_atividade_de_nivelamento2\obj\Debug\net7.0\si_aed_atividade_de_nivelamento2.genruntimeconfig.cache
+C:\Pessoal\Sistemas_De_Informacao\Disciplinas\AED\si_aed_atividade_de_nivelamento2\obj\Debug\net7.0\ref\si_aed_atividade_de_nivelamento2.dll
