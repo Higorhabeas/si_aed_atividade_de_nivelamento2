@@ -90,25 +90,34 @@ namespace si_aed_atividade_de_nivelamento2
             int Cont = 0;
             for (int i = 0; i < v1.Length; i++){
                 for (int j = 0; j < v2.Length; j++){
-                    if (v1 [i] != v2[j]){
+                    if (v1 [i] == v2[j]){
                         Cont++;
                     }
                 }
             }
 
-            int [] v3 = new int [Cont];
+            int [] v3 = new int [v1.Length-Cont];
             Cont = 0;
+            int index = 0;
             for (int i = 0; i < v1.Length; i++){
+
                 for (int j = 0; j < v2.Length; j++){
-                    if (v1 [i] != v2[j]){
-                        v3[Cont] = v1[i];
+                    if (v1 [i] == v2[j]){
+                        
                         Cont++;    
                     }
                 }
+                if (Cont == 0){
+                    v3[index] = v1[i];
+                    index++;
+                    
+                }
+                Cont = 0;
+                
             }
 
-            for (int i=0; i < v3.Length; i++){
-                Console.Write(v3[i]);
+            for (int l=0; l < v3.Length; l++){
+                Console.Write(v3[l]);
             }
            
         }
