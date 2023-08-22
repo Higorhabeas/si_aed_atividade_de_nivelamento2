@@ -121,6 +121,17 @@ namespace si_aed_atividade_de_nivelamento2
             }
            
         }
+    
+        static void Exercicio_4(int [ , ] m1){
+            int somaLinha = 0;
+            int somaColuna = 0;
+            for (int i = 0; i < m1.GetLength(1); i++){
+                for (int j = 0; j < m1.GetLength(0); j++){
+                    somaLinha += m1 [j,i];
+                }
+                
+            }
+        }
     }
     
 }
