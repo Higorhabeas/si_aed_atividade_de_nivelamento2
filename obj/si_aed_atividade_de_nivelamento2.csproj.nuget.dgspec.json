@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\si_aed_atividade_de_nivelamento2\\si_aed_atividade_de_nivelamento2.csproj": {}
+    "C:\\Pessoal\\Sistemas_De_Informacao\\Disciplinas\\AED\\si_aed_atividade_de_nivelamento2\\si_aed_atividade_de_nivelamento2.csproj": {}
   },
   "projects": {
-    "C:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\si_aed_atividade_de_nivelamento2\\si_aed_atividade_de_nivelamento2.csproj": {
+    "C:\\Pessoal\\Sistemas_De_Informacao\\Disciplinas\\AED\\si_aed_atividade_de_nivelamento2\\si_aed_atividade_de_nivelamento2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\si_aed_atividade_de_nivelamento2\\si_aed_atividade_de_nivelamento2.csproj",
+        "projectUniqueName": "C:\\Pessoal\\Sistemas_De_Informacao\\Disciplinas\\AED\\si_aed_atividade_de_nivelamento2\\si_aed_atividade_de_nivelamento2.csproj",
         "projectName": "si_aed_atividade_de_nivelamento2",
-        "projectPath": "C:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\si_aed_atividade_de_nivelamento2\\si_aed_atividade_de_nivelamento2.csproj",
-        "packagesPath": "C:\\Users\\higor_kwmzknu\\.nuget\\packages\\",
-        "outputPath": "C:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\si_aed_atividade_de_nivelamento2\\obj\\",
+        "projectPath": "C:\\Pessoal\\Sistemas_De_Informacao\\Disciplinas\\AED\\si_aed_atividade_de_nivelamento2\\si_aed_atividade_de_nivelamento2.csproj",
+        "packagesPath": "C:\\Users\\Higor\\.nuget\\packages\\",
+        "outputPath": "C:\\Pessoal\\Sistemas_De_Informacao\\Disciplinas\\AED\\si_aed_atividade_de_nivelamento2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\higor_kwmzknu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Higor\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.307\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }
