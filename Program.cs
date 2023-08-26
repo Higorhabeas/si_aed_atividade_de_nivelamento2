@@ -10,10 +10,18 @@ namespace si_aed_atividade_de_nivelamento2
             //Exercicio_1();
             //Exercicio_2A();
             //Exercicio_2B();
-            int []A ={1,2,3,4,5};
-            int []B = {3,4,5,6,7};
+            //int []A ={1,2,3,4,5};
+            //int []B = {3,4,5,6,7};
             //Exercicio_3(A,B);
-            Exercicio_3B(A,B);
+            //Exercicio_3B(A,B);
+            int [,] mat = new int[5,3]{
+                {1,2,3},
+                {4,5,6},
+                {7,8,9},
+                {10,11,12},
+                {13,14,15}
+            };
+            Exercicio_4(mat);
         }
 
         static void Exercicio_1(){            
@@ -122,16 +130,36 @@ namespace si_aed_atividade_de_nivelamento2
            
         }
     
-        static void Exercicio_4(int [ , ] m1){
-            int somaLinha = 0;
-            int somaColuna = 0;
+        static void Exercicio_4(int [,] m1){
+            int []somaLinha = new int[m1.GetLength(0)];
+            int []somaColuna = new int[m1.GetLength(1)];
             for (int i = 0; i < m1.GetLength(1); i++){
                 for (int j = 0; j < m1.GetLength(0); j++){
-                    somaLinha += m1 [j,i];
+                    somaLinha[i] += m1 [i,j];
                 }
                 
             }
+            for (int i = 0; i < m1.GetLength(0); i++){
+                for(int j = 0; j < m1.GetLength(1); j++){
+                    somaColuna[i] += m1 [j,i];
+                }
+            }
+
+            foreach (int valor in somaLinha){
+                Console.Write(valor + " ");
+
+            }
+            Console.WriteLine();
+
+            foreach(int valor2 in somaColuna){
+                Console.Write(valor2 + " ");
+            }
+            Console.WriteLine();
+
+            
         }
+
+        
     }
     
 }
