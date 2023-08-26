@@ -1,9 +1,9 @@
 ﻿using System;
 using System.ComponentModel;
+using System.Data;
 using System.Runtime.Serialization.Formatters;
 
-namespace si_aed_atividade_de_nivelamento2
-{
+namespace si_aed_atividade_de_nivelamento2{
     class Program{
 
         static void Main (){
@@ -14,14 +14,16 @@ namespace si_aed_atividade_de_nivelamento2
             //int []B = {3,4,5,6,7};
             //Exercicio_3(A,B);
             //Exercicio_3B(A,B);
-            int [,] mat = new int[5,3]{
+            /*int [,] mat = new int[5,3]{
                 {1,2,3},
                 {4,5,6},
                 {7,8,9},
                 {10,11,12},
                 {13,14,15}
-            };
-            Exercicio_4(mat);
+            };*/
+            //Exercicio_4(mat);
+            //Exercicio_5(5);
+            Execicio_6(2,3);
         }
 
         static void Exercicio_1(){            
@@ -154,12 +156,23 @@ namespace si_aed_atividade_de_nivelamento2
             foreach(int valor2 in somaColuna){
                 Console.Write(valor2 + " ");
             }
-            Console.WriteLine();
-
-            
+            Console.WriteLine();   
         }
 
-        
+        static void Exercicio_5(int n){
+            int fatorial = n;
+            for (int i = 1; i < n; i++){              
+                    fatorial *= (n-i);
+            }
+            Console.WriteLine(fatorial);    
+        }
+
+        static void Execicio_6(int b , int expo){
+            Console.WriteLine(Math.Pow(b,expo));
+        }
     }
     
 }
+
+    
+

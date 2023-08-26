@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\si_aed_atividade_de_nivelamento2\\si_aed_atividade_de_nivelamento2.csproj",
+      "projectUniqueName": "c:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\si_aed_atividade_de_nivelamento2\\si_aed_atividade_de_nivelamento2.csproj",
       "projectName": "si_aed_atividade_de_nivelamento2",
-      "projectPath": "C:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\si_aed_atividade_de_nivelamento2\\si_aed_atividade_de_nivelamento2.csproj",
+      "projectPath": "c:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\si_aed_atividade_de_nivelamento2\\si_aed_atividade_de_nivelamento2.csproj",
       "packagesPath": "C:\\Users\\higor_kwmzknu\\.nuget\\packages\\",
-      "outputPath": "C:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\si_aed_atividade_de_nivelamento2\\obj\\",
+      "outputPath": "c:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\si_aed_atividade_de_nivelamento2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\higor_kwmzknu\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -62,13 +62,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.307\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problema ao ler o arquivo de cache C:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\si_aed_atividade_de_nivelamento2\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }
