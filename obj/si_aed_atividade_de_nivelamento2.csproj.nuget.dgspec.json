@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\si_aed_atividade_de_nivelamento2\\si_aed_atividade_de_nivelamento2.csproj": {}
+    "c:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\si_aed_atividade_de_nivelamento2\\si_aed_atividade_de_nivelamento2.csproj": {}
   },
   "projects": {
-    "C:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\si_aed_atividade_de_nivelamento2\\si_aed_atividade_de_nivelamento2.csproj": {
+    "c:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\si_aed_atividade_de_nivelamento2\\si_aed_atividade_de_nivelamento2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\si_aed_atividade_de_nivelamento2\\si_aed_atividade_de_nivelamento2.csproj",
+        "projectUniqueName": "c:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\si_aed_atividade_de_nivelamento2\\si_aed_atividade_de_nivelamento2.csproj",
         "projectName": "si_aed_atividade_de_nivelamento2",
-        "projectPath": "C:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\si_aed_atividade_de_nivelamento2\\si_aed_atividade_de_nivelamento2.csproj",
+        "projectPath": "c:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\si_aed_atividade_de_nivelamento2\\si_aed_atividade_de_nivelamento2.csproj",
         "packagesPath": "C:\\Users\\higor_kwmzknu\\.nuget\\packages\\",
-        "outputPath": "C:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\si_aed_atividade_de_nivelamento2\\obj\\",
+        "outputPath": "c:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\si_aed_atividade_de_nivelamento2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\higor_kwmzknu\\AppData\\Roaming\\NuGet\\NuGet.Config"
