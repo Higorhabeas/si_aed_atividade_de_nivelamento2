@@ -133,14 +133,14 @@ namespace si_aed_atividade_de_nivelamento2
         static void Exercicio_4(int [,] m1){
             int []somaLinha = new int[m1.GetLength(0)];
             int []somaColuna = new int[m1.GetLength(1)];
-            for (int i = 0; i < m1.GetLength(1); i++){
-                for (int j = 0; j < m1.GetLength(0); j++){
+            for (int i = 0; i < m1.GetLength(0); i++){
+                for (int j = 0; j < m1.GetLength(1); j++){
                     somaLinha[i] += m1 [i,j];
                 }
                 
             }
-            for (int i = 0; i < m1.GetLength(0); i++){
-                for(int j = 0; j < m1.GetLength(1); j++){
+            for (int i = 0; i < m1.GetLength(1); i++){
+                for(int j = 0; j < m1.GetLength(0); j++){
                     somaColuna[i] += m1 [j,i];
                 }
             }

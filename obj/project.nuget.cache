@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "ATTq35bxRoOLPrR7F1KfRrJAbh95t/qbSNW03kezf3c6JrNmyggdrUJqlz/1dAT8PO3uu4IJHJvny40jwQkh+g==",
+  "dgSpecHash": "jNvadR8fFBsqKcw0K9R/Xh9EvuY6MmXtoMjCAAGUfOVNkEdrB9ykLfmQubQnEbw6YKFNvSUgmdk9+Lchn1RG3A==",
   "success": true,
-  "projectFilePath": "c:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\si_aed_atividade_de_nivelamento2\\si_aed_atividade_de_nivelamento2.csproj",
-=======
-  "dgSpecHash": "BtSi9KWOaU9is42FyACmduQHt626DUvxKWR2b6EuEkbml0TyyPcBlWFg4Qb2HTgEO9emG10seY0Fm5tUk67Pcw==",
-  "success": true,
-  "projectFilePath": "C:\\Pessoal\\Sistemas_De_Informacao\\Disciplinas\\AED\\si_aed_atividade_de_nivelamento2\\si_aed_atividade_de_nivelamento2.csproj",
->>>>>>> b5e122a4297765d2b2c5b8cefff7995eb880668c
+  "projectFilePath": "C:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\si_aed_atividade_de_nivelamento2\\si_aed_atividade_de_nivelamento2.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema ao ler o arquivo de cache C:\\Cursos\\Sistema de inforção\\Disciplinas\\AED\\si_aed_atividade_de_nivelamento2\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
